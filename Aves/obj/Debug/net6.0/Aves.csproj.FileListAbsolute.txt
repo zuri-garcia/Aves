@@ -1,0 +1,15 @@
+C:\Users\Liverpool\source\repos\Aves\Aves\bin\Debug\net6.0\Aves.exe
+C:\Users\Liverpool\source\repos\Aves\Aves\bin\Debug\net6.0\Aves.deps.json
+C:\Users\Liverpool\source\repos\Aves\Aves\bin\Debug\net6.0\Aves.runtimeconfig.json
+C:\Users\Liverpool\source\repos\Aves\Aves\bin\Debug\net6.0\Aves.dll
+C:\Users\Liverpool\source\repos\Aves\Aves\bin\Debug\net6.0\Aves.pdb
+C:\Users\Liverpool\source\repos\Aves\Aves\obj\Debug\net6.0\Aves.csproj.AssemblyReference.cache
+C:\Users\Liverpool\source\repos\Aves\Aves\obj\Debug\net6.0\Aves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liverpool\source\repos\Aves\Aves\obj\Debug\net6.0\Aves.AssemblyInfoInputs.cache
+C:\Users\Liverpool\source\repos\Aves\Aves\obj\Debug\net6.0\Aves.AssemblyInfo.cs
+C:\Users\Liverpool\source\repos\Aves\Aves\obj\Debug\net6.0\Aves.csproj.CoreCompileInputs.cache
+C:\Users\Liverpool\source\repos\Aves\Aves\obj\Debug\net6.0\Aves.dll
+C:\Users\Liverpool\source\repos\Aves\Aves\obj\Debug\net6.0\refint\Aves.dll
+C:\Users\Liverpool\source\repos\Aves\Aves\obj\Debug\net6.0\Aves.pdb
+C:\Users\Liverpool\source\repos\Aves\Aves\obj\Debug\net6.0\Aves.genruntimeconfig.cache
+C:\Users\Liverpool\source\repos\Aves\Aves\obj\Debug\net6.0\ref\Aves.dll
